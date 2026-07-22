@@ -27,7 +27,12 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 - Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
+# Sales Dashboard
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/dce02cbc-0ab0-4b8f-9e5b-0e1ae01a2e0c" />
+
+# Customer Dashboard
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/f4a72f14-0d5e-4299-a3c1-856b6092d8f3" />
+
+# Customer & Sales Dashboard Filter
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/6f7a248b-b6e2-47f1-8a8e-6a3368ee901f" />
 
